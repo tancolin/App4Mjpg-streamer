@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SmartDoor</string>
+    <string name="ip_addr">IP地址</string>
+    <string name="port">端口号</string>
+    <string name="connect">登录</string>
+    <string name="quit">退出</string>
+
+</resources>
